@@ -1,0 +1,2312 @@
+[
+    {
+        "id": 1,
+        "question": "\n\nDin so’zining lug’aviy ma’nosi?",
+        "options": [
+            "“Din” arabcha so’z bo’lib, o’zbek tilida \"ishonch\", \"ishonmoq\" ma’nosini anglatadi",
+            "“Din” arabcha so’z bo’lib, o’zbek tilida \"e’tiqod\" ma’nosini anglatadi",
+            "\"Din\" arabcha so’z bo’lib, o’zbek tilida \"to’g’ri yo’l\" ma’nosini anglatadi",
+            "\"Din\" arabcha so’z bo’lib, o’zbek tilida \"haqiqat\" ma’nosini anglatadi"
+        ],
+        "answer": "“Din” arabcha so’z bo’lib, o’zbek tilida \"ishonch\", \"ishonmoq\" ma’nosini anglatadi"
+    },
+    {
+        "id": 2,
+        "question": "Dinningqanday ijtimoiy vazifalari bor?",
+        "options": [
+            "kompensatorlik, integratorlik, regulyatorlik, legitimlovchilik",
+            "tarbiyaviy, kompensatorlik, ilmiy",
+            "integratorlik, boshqaruvlik",
+            "boshqaruvlik, tarbiyaviy"
+        ],
+        "answer": "kompensatorlik, integratorlik, regulyatorlik, legitimlovchilik"
+    },
+    {
+        "id": 3,
+        "question": "Urug’- qabila, xususan, shu urug’ har bir a’zosining hayoti va farovonligi ayni shu urug’ning haqiqiy ajdodi hisoblangan o’simlik va hayvonga bog’liq deb, ishonish qaysi ibtidoiy diniy tasavvurga tegishli?",
+        "options": [
+            "Totemizm",
+            "Animizm",
+            "Fetishizm",
+            "Magiya"
+        ],
+        "answer": "Totemizm"
+    },
+    {
+        "id": 4,
+        "question": "Kishi ruhining, jonining borligiga ishonish qaysi ibtidoiy diniy tasavvurga xos?",
+        "options": [
+            "Animizm",
+            "Fetishizm",
+            "Totemizm",
+            "Shomonizm"
+        ],
+        "answer": "Animizm"
+    },
+    {
+        "id": 5,
+        "question": "Diniy tashkilot ta’rifini aniqlang?\n",
+        "options": [
+            "ma’lum dinga ishonuvchilar va ular jamoalarining uyushmasidir",
+            "diniy aqidalarni vakonsepsiyalarni fan- texnika va ijtimoiyhayotdagi o’zgarishlarga qarab rad etuvchi tashkilot",
+            "o’z maqsad yo’lida har qanday keskin tadbir choralar ko’ruvchi tashkilot",
+            "o’z fikrini boshqalarga zo’ravonlik bilan o’tkazuvchi tashkilot"
+        ],
+        "answer": "ma’lum dinga ishonuvchilar va ular jamoalarining uyushmasidir"
+    },
+    {
+        "id": 6,
+        "question": "Respublikamizda nechta diniy konfessiya uyushmalari faoliyat yuritmoqda?",
+        "options": [
+            "16",
+            "17",
+            "14",
+            "18"
+        ],
+        "answer": "16"
+    },
+    {
+        "id": 7,
+        "question": "Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?",
+        "options": [
+            "vijdon erkinligi",
+            "burch erkinligi",
+            "qadriyat erkinligi",
+            "fikr erkinligi"
+        ],
+        "answer": "vijdon erkinligi"
+    },
+    {
+        "id": 8,
+        "question": "\"Monoteizm\" ning ma’nosi nima?",
+        "options": [
+            "yakkaxudolik",
+            "ko’pxudolik",
+            "diniy talimot",
+            "diniy mutaassiblik"
+        ],
+        "answer": "yakkaxudolik"
+    },
+    {
+        "id": 9,
+        "question": "Dinlar tasnifiga ko’ra quyidagilarga bo’linadi?",
+        "options": [
+            "Urug’ – qabila, millat va jahon dinlari",
+            "Monoteistik va politeistik dinlar",
+            "Qit’alarda tarqalishiga ko’ra",
+            "Millat va jahon dinlari"
+        ],
+        "answer": "Urug’ – qabila, millat va jahon dinlari"
+    },
+    {
+        "id": 10,
+        "question": "Dinlar ta’limotiga ko’ra quyidagilarga bo’linadi?",
+        "options": [
+            "Monoteistik va politeistik dinlar",
+            "Urug’ – qabila, millat va jahon dinlari",
+            "Qit’alarda tarqalishiga ko’ra",
+            "Millat va jahon dinlari"
+        ],
+        "answer": "Monoteistik va politeistik dinlar"
+    },
+    {
+        "id": 11,
+        "question": "Jahon dinlarining xronologik jihatdan paydo bo’lishi quyidagi qaysi javobda to’g’ri ko’rsatilgan?",
+        "options": [
+            "Buddaviylik, xristianlik, islom",
+            "Xristianlik, buddaviylik, islom",
+            "Islom, xristianlik, buddaviylik",
+            "Buddaviylik, islom, xristianlik"
+        ],
+        "answer": "Buddaviylik, xristianlik, islom"
+    },
+    {
+        "id": 12,
+        "question": "O’rta Osiyodagi qaysi davlatda budda dini asosiy (hukmron) din edi?",
+        "options": [
+            "Kushon",
+            "Qang’",
+            "Xorazm",
+            "Dovon"
+        ],
+        "answer": "Kushon"
+    },
+    {
+        "id": 13,
+        "question": "\nMillat dinlari... \n",
+        "options": [
+            "hinduiylik, konfutsiylik, sintoizm",
+            "buddizm, xristianlik, islom",
+            "konfutsiylik, zardushtiylik buddizm",
+            "hinduizm, braxmanizm xristianlik"
+        ],
+        "answer": "hinduiylik, konfutsiylik, sintoizm"
+    },
+    {
+        "id": 14,
+        "question": "Tasavvuf ilmining yirik namoyondasi bo’lgan Xoja Ahmad Yassaviy yili deb, qaysi yil e’lonqilindi?",
+        "options": [
+            "1993 yil",
+            "1994-yil",
+            "1995-yil",
+            "1992-yil"
+        ],
+        "answer": "1993 yil"
+    },
+    {
+        "id": 15,
+        "question": "Ibtidoiy dinlar ko’rinishini aniqlang?",
+        "options": [
+            "Totemizm, fetishizm, shamanizm, animizm",
+            "Bobizm, kuminizm, lamanizm, jaynizm",
+            "Fetishizm, animizm, jaynizm, sintoizm",
+            "Hinduiylik, animizm, sikxizm"
+        ],
+        "answer": "Totemizm, fetishizm, shamanizm, animizm"
+    },
+    {
+        "id": 16,
+        "question": "Qaysi muqaddas kitobda tuproq, suv, havo, olov muqaddaslashtirilgan?",
+        "options": [
+            "Avesto \n\n",
+            "Qur’oni Karim \n",
+            "Injil \n",
+            "Tavrot"
+        ],
+        "answer": "Avesto \n\n"
+    },
+    {
+        "id": 17,
+        "question": "Imom al- Buxoriy (810- 870) to’plagan sahih hadislarining soni nechta?",
+        "options": [
+            "7275 ta",
+            "6236 ta",
+            "8888 ta",
+            "5215 ta"
+        ],
+        "answer": "7275 ta"
+    },
+    {
+        "id": 18,
+        "question": "Diniy bag’rikenglik bu…",
+        "options": [
+            "Barcha dinlarga sabr-toqat, hurmat bilan munosabatda bo’lish",
+            "Diniy hamkorlik barcha muammoni yechadi",
+            "Hamma diniy qoidalar asosli degani",
+            "Dunyoviy haqiqatlarga amal qilish"
+        ],
+        "answer": "Barcha dinlarga sabr-toqat, hurmat bilan munosabatda bo’lish"
+    },
+    {
+        "id": 19,
+        "question": "O’zbekiston Respublikasi Konstitusiyasining nechanchi moddasida “Vijdon erkinligi” kafolatlanadi?",
+        "options": [
+            "35-moddasi",
+            "36-moddasi",
+            "33-moddasi",
+            "34-moddasi"
+        ],
+        "answer": "35-moddasi"
+    },
+    {
+        "id": 20,
+        "question": "“Vijdon erkinligi va diniy tashkilotlar to’g’risida”gi qonunning yangi tahriri qachon qabul qilindi?",
+        "options": [
+            "1998 yil 1 may \n",
+            "1997 yil 10 sentyabr",
+            "1996 yil 8 mart",
+            "1999 yil 9 aprel"
+        ],
+        "answer": "1998 yil 1 may \n"
+    },
+    {
+        "id": 21,
+        "question": "Diniy tashkilotlarning markaziy boshqaruv organlari qaysi vazirlik tomonidan ro’yxatga olinadi?",
+        "options": [
+            "O’zbekiston Respublikasi Adliya Vazirligi",
+            "O’zbekiston Respublikasi Oliy va O’rta ta’lim Vazirligi",
+            "O’zbekiston Respublikasi Vazirlar mahkamasi",
+            "O’zbekiston Respublikasi Bosh Prokuraturasi"
+        ],
+        "answer": "O’zbekiston Respublikasi Adliya Vazirligi"
+    },
+    {
+        "id": 22,
+        "question": "Quyidagi qadimgi davlatlarning qaysi birida vafot etgan podshohlar mumiyolangan va ular to hozirgi kunga qadar saqlanib kelmoqda?",
+        "options": [
+            "Qadimgi Misrda",
+            "Qadimgi Yunonistonda",
+            "Qadimgi Xitoyda",
+            "Qadimgi Rimda"
+        ],
+        "answer": "Qadimgi Misrda"
+    },
+    {
+        "id": 23,
+        "question": "Quyidagi dinlardan qaysi biri dastlabki paytlarda \"xudosizlar dini\" bo’lgan?",
+        "options": [
+            "buddizm",
+            "zardushtiylik",
+            "iudaizm",
+            "braxmanizm"
+        ],
+        "answer": "buddizm"
+    },
+    {
+        "id": 24,
+        "question": "Hinduiylik ta’limotiga ko’ra din nechta kastaga bo’linadi?",
+        "options": [
+            "4 ta",
+            "5 ta",
+            "3 ta",
+            "6 ta"
+        ],
+        "answer": "4 ta"
+    },
+    {
+        "id": 25,
+        "question": "Daosizm dinidagi xudolar panteonini ko’rsating?",
+        "options": [
+            "Shan-Di, Lao-Tszi, Pan-Gu",
+            "Braxma, Shiva, Vishnu, Indra",
+            "Axuramazda,Axriman",
+            "Digambar, Shvetambar"
+        ],
+        "answer": "Shan-Di, Lao-Tszi, Pan-Gu"
+    },
+    {
+        "id": 26,
+        "question": "Zardushtiylik dinining muqaddas kitobi qaysi?",
+        "options": [
+            "Avesto",
+            "Buyuk Zardusht",
+            "Ahuramazda\nqonunlari",
+            "Ezgu fikr"
+        ],
+        "answer": "Avesto"
+    },
+    {
+        "id": 27,
+        "question": "Zardushtiylik ta’limotida yaxshilik xudosi nima deb atalgan? \n",
+        "options": [
+            "Axuramazda",
+            "Axriman",
+            "Mitra\n",
+            "Anaxita"
+        ],
+        "answer": "Axuramazda"
+    },
+    {
+        "id": 28,
+        "question": "Sikxizm dinining asoschisi kim?",
+        "options": [
+            "Nanak",
+            "Vishnu",
+            "Shiva",
+            "Braxma"
+        ],
+        "answer": "Nanak"
+    },
+    {
+        "id": 29,
+        "question": "Iudaizmda ibodatxona nima deb nomlanadi? \n",
+        "options": [
+            "sinagoga",
+            "monastir",
+            "cherkov",
+            "knesset"
+        ],
+        "answer": "sinagoga"
+    },
+    {
+        "id": 30,
+        "question": "Yaponiya davlatining qadimiy milliy dini…",
+        "options": [
+            "\nSintoizm",
+            "\nBuddizm",
+            "\nLamaizm",
+            "\nDaosizm"
+        ],
+        "answer": "\nSintoizm"
+    },
+    {
+        "id": 31,
+        "question": "Bibliyaning yahudiylar muqaddas deb e’tirof etgan qismi qaysi?",
+        "options": [
+            "Eski Ahd",
+            "Yangi Ahd",
+            "Talmud",
+            "Tripitaka"
+        ],
+        "answer": "Eski Ahd"
+    },
+    {
+        "id": 32,
+        "question": "Zardushtiylik dinining vataniga qaysi hududlar kiradi?",
+        "options": [
+            "Markaziy Osiyo va Eron",
+            "Afrika va Lotin Amerikasi",
+            "Hindiston va Xitoy",
+            "Misr va Vizantiya"
+        ],
+        "answer": "Markaziy Osiyo va Eron"
+    },
+    {
+        "id": 33,
+        "question": "Daosizm dinining vatani qayer?",
+        "options": [
+            "Qadimgi Xitoy",
+            "Qadimgi Yaponiya",
+            "Qadimgi Koreya",
+            "Qadimgi Vyetnam"
+        ],
+        "answer": "Qadimgi Xitoy"
+    },
+    {
+        "id": 34,
+        "question": "“Avesto” ning 12000 qoramol terisiga yozilganligito’g’rsidagi manba kimning qalamiga mansub?",
+        "options": [
+            "Abu Rayhon Beruniy “O’tmish xalqlardan qolgan yodgorliklar”",
+            "Ibn Sino “Donishnoma”",
+            "Abu Nasr Farobiy “Fozil odamlar shahri”",
+            "Burhoniddin Marg’inoniy “Hidoya”"
+        ],
+        "answer": "Abu Rayhon Beruniy “O’tmish xalqlardan qolgan yodgorliklar”"
+    },
+    {
+        "id": 35,
+        "question": "“Avesto”ni ilk tarjima qilgan yevropalik olim kim?",
+        "options": [
+            "Fransuz olimi Anketil Dyuperon",
+            "Rus olimi G.S. Sablukov",
+            "Ingliz olimi Dje. Buger",
+            "Nemis faylasufi Nittshe"
+        ],
+        "answer": "Fransuz olimi Anketil Dyuperon"
+    },
+    {
+        "id": 36,
+        "question": "Jahonda e’tiqod qiluvchilar soni jihatidan eng katta milliy din qaysi?",
+        "options": [
+            "yahudiylik",
+            "sintoizm",
+            "konfutsiylik",
+            "sikxiylik"
+        ],
+        "answer": "yahudiylik"
+    },
+    {
+        "id": 37,
+        "question": "Tavrot va Talmud qaysi dinning muqaddas kitobi bo’lib hisoblanadi?",
+        "options": [
+            "Yahudiylik",
+            "Hinduiylik",
+            "Jaynizm",
+            "Sintoizm"
+        ],
+        "answer": "Yahudiylik"
+    },
+    {
+        "id": 38,
+        "question": "“Pesax” qaysi dinning eng e’tiborli bayrami?",
+        "options": [
+            "yahudiylik",
+            "nasroniylik",
+            "konfutsiylik",
+            "braxmanlik"
+        ],
+        "answer": "yahudiylik"
+    },
+    {
+        "id": 39,
+        "question": "\nPesax…",
+        "options": [
+            "yahudiylarning Misrdan ozod bo’lib chiqishlari bilan bog’liq bayram",
+            "Iso Masihning qayta tirilishi bilan bog’liq bayram",
+            "Musoga berilgan o’nta amr bilan bog’liq bayram",
+            "Xristianlarning asosiy bayrami"
+        ],
+        "answer": "yahudiylarning Misrdan ozod bo’lib chiqishlari bilan bog’liq bayram"
+    },
+    {
+        "id": 40,
+        "question": "Xudo tomonidan Dovud payg’ambarga yuborilgan muqaddas kitob?",
+        "options": [
+            "Zabur",
+            "Tavrot",
+            "Talmud",
+            "Qur’oni Karim"
+        ],
+        "answer": "Zabur"
+    },
+    {
+        "id": 41,
+        "question": "Markaziy Osiyoda arablar islom dinini qabul qilmaganlardan qanday soliq olganlar?",
+        "options": [
+            "Jizya",
+            "Ushr",
+            "Zakot",
+            "Xiroj"
+        ],
+        "answer": "Jizya"
+    },
+    {
+        "id": 42,
+        "question": "“Avesto”ning bizgacha yetib kelgan birinchi kitobi qanday nomlanadi?",
+        "options": [
+            "Vendidat",
+            "Yasna",
+            "Visparad",
+            "Yasht"
+        ],
+        "answer": "Vendidat"
+    },
+    {
+        "id": 43,
+        "question": "Islomga qadar Markaziy Osiyoda hukm surgan din?",
+        "options": [
+            "zardushtiylik",
+            "buddaviylik",
+            "konfutsiychilik",
+            "xristianlik"
+        ],
+        "answer": "zardushtiylik"
+    },
+    {
+        "id": 44,
+        "question": "Braxmanizm dinining vatani?",
+        "options": [
+            "Hindiston",
+            "Pokiston",
+            "Bangladesh",
+            "Xitoy"
+        ],
+        "answer": "Hindiston"
+    },
+    {
+        "id": 45,
+        "question": "Ilohiyot haqidagi ta’limotning nomi?",
+        "options": [
+            "Teologiya",
+            "Mifologiya",
+            "Esxotologiya",
+            "Mifologiya va esxotologiya"
+        ],
+        "answer": "Teologiya"
+    },
+    {
+        "id": 46,
+        "question": "Hinduiylik ta’limotiga ko’ra olam, hayotning barcha shaklini qaysi xudo yaratgan?",
+        "options": [
+            "Braxma",
+            "Shiva",
+            "Vishnu",
+            "Adita"
+        ],
+        "answer": "Braxma"
+    },
+    {
+        "id": 47,
+        "question": "Daosizmning falsafiy prinsiplari qaysi kitobda bayon qilingan?",
+        "options": [
+            "“Dao-Deszin” kitobida",
+            "“Lung-Yuy” kitobida",
+            "“Xan-yuy” kitobida",
+            "“Shandon Lunen” kitobida"
+        ],
+        "answer": "“Dao-Deszin” kitobida"
+    },
+    {
+        "id": 48,
+        "question": "Zardushtiylik dinida har bir insonning bu dunyoda qilgan, yomon ishlari ko’p bo’lsa na xursandchilik va na xafalik ko’rmaydigan arosat joy – nima deyiladi?",
+        "options": [
+            "misvongatu",
+            "jannat",
+            "nasx",
+            "do’zax"
+        ],
+        "answer": "misvongatu"
+    },
+    {
+        "id": 49,
+        "question": "“Avesto” haqida eng muhim manba IX asrga oid qaysi asar hisoblanadi?",
+        "options": [
+            "“Denkard” (din amallari)",
+            "“Lung- Yuy” (suhbatlar va mulohazalar)",
+            "Vedalar",
+            "“Jeng” (insonparvarlik)"
+        ],
+        "answer": "“Denkard” (din amallari)"
+    },
+    {
+        "id": 50,
+        "question": "Avestoda Axuramazda tomonidan berilgan “Barokot va najot” sohibi bo’lgan bir qator mamlakatlar zikr etilidi va ularning eng birinchisi, “dunyoda hech bir narsa uning chiroyiga teng kela olmas” deb, qaysi hudud tilga olingan?",
+        "options": [
+            "Eran-vej (Xorazm)",
+            "So’gd (Sug’d)",
+            "Mouru (Marv)",
+            "Batxi (Baqtriya)"
+        ],
+        "answer": "Eran-vej (Xorazm)"
+    },
+    {
+        "id": 51,
+        "question": "Zardushtiylik dinida muqaddas hisoblangan to’rt unsurga nimalar kiradi?",
+        "options": [
+            "suv, olov, yer va havo",
+            "tuproq, suv, havo va oy",
+            "quyosh, oy, suv va havo",
+            "havo, tuproq, oy va quyosh"
+        ],
+        "answer": "suv, olov, yer va havo"
+    },
+    {
+        "id": 52,
+        "question": "Tripitakaning qismlarini ko’rsating.",
+        "options": [
+            "Vinaya-pitaka, Sutta-pitaka, Abxidxamma-pitaka",
+            "meditasiya, axloq, donolik",
+            "to’g’ri anglash, to’g’ri harakat qilish",
+            "Sutta-pitaka, Maxayana, Xinayana"
+        ],
+        "answer": "Vinaya-pitaka, Sutta-pitaka, Abxidxamma-pitaka"
+    },
+    {
+        "id": 53,
+        "question": "Nima to’g’risidagi aqida buddizmning asosiy aqidasidir? \n",
+        "options": [
+            "azob-uqubat",
+            "gunoh",
+            "itoatkorlik",
+            "nirvana"
+        ],
+        "answer": "azob-uqubat"
+    },
+    {
+        "id": 54,
+        "question": "Buddizmning asosiy yo’nalishlari qaysilar?",
+        "options": [
+            "xinayana, maxayana, lamaizm",
+            "shaktizm, shivaizm, jaynizm",
+            "sunniylik, shialik, xorijiylik",
+            "provaslav, katolisizm, protestantlik"
+        ],
+        "answer": "xinayana, maxayana, lamaizm"
+    },
+    {
+        "id": 55,
+        "question": "Buddizmning asosiy kitobi...",
+        "options": [
+            "Tripitaka",
+            "Tavrot",
+            "Avesto",
+            "Injil"
+        ],
+        "answer": "Tripitaka"
+    },
+    {
+        "id": 56,
+        "question": "Buddata’limotinechtahaqiqatdao’zifodasinitopgan?",
+        "options": [
+            "4 ta",
+            "5 ta",
+            "6 ta",
+            "3 ta"
+        ],
+        "answer": "4 ta"
+    },
+    {
+        "id": 57,
+        "question": "“Budda” - so’zining ma’nosini aniqlang?",
+        "options": [
+            "nurlagan, yaraqlagan",
+            "buyuklik, donolik",
+            "sokinlik, saroblilik",
+            "soflik, insonparvarlik"
+        ],
+        "answer": "nurlagan, yaraqlagan"
+    },
+    {
+        "id": 58,
+        "question": "Budda ko’p yillar davomida yer yuzidagi turli mavjudotlar qiyofasida qayta tug’ilgan bo’lib, jami necha marotaba qayta tug’ilganligi haqidagi ma’lumotlar uchraydi?",
+        "options": [
+            "550 marta",
+            "560 marta",
+            "500 marta",
+            "U nirvanaga\nega bo’lgani uchun qayta tug’ilmagan"
+        ],
+        "answer": "550 marta"
+    },
+    {
+        "id": 59,
+        "question": "Buddaviylik ta’limotiga ko’ra birinchi haqiqat qanday nomlanadi?",
+        "options": [
+            "Azob-uqubatlarning mavjudligi haqida",
+            "Azob-uqubatlarning sababi haqida",
+            "Qiynoqlarning sabablari haqida",
+            "Qiynoqlardan qutulish yo’li haqida"
+        ],
+        "answer": "Azob-uqubatlarning mavjudligi haqida"
+    },
+    {
+        "id": 60,
+        "question": "Buddaviylik dinida «Qiynoqlarning sabablari mavjudligi» haqidagi ta’limot nechanchi haqiqatda berilgan?",
+        "options": [
+            "Ikkinchi haqiqat",
+            "Uchinchi haqiqat",
+            "Birinchi haqiqat",
+            "To’rtinchi haqiqat"
+        ],
+        "answer": "Ikkinchi haqiqat"
+    },
+    {
+        "id": 61,
+        "question": "Buddaviylik ta’limotiga ko’ra insonning qayta tug’ilishdan to’xtash holati qanday nomlanadi?",
+        "options": [
+            "Nirvana",
+            "Dxarma",
+            "Meditatsiya",
+            "Karma"
+        ],
+        "answer": "Nirvana"
+    },
+    {
+        "id": 62,
+        "question": "Buddaviylik dinida «Qiynoqlardan qutulish yo’li mavjudligi» haqidagi ta’limot nechanchi haqiqatda berilgan?",
+        "options": [
+            "To’rtinchi haqiqat",
+            "Ikkinchi haqiqat",
+            "Uchinchi haqiqat",
+            "Birinchi haqiqat"
+        ],
+        "answer": "To’rtinchi haqiqat"
+    },
+    {
+        "id": 63,
+        "question": "Buddaviylikning to’rtinchi haqiqati - «Qiynoqlardan qutilish yo’li mavjudligi» haqidagi sakkiz narsaga amal qilish nima deyiladi?",
+        "options": [
+            "Meditatsiya",
+            "Axloq",
+            "Donolik",
+            "Nirvana"
+        ],
+        "answer": "Meditatsiya"
+    },
+    {
+        "id": 64,
+        "question": "«Xinayana» oqimi buddaviylikda qanday ma’noni anglatadi?",
+        "options": [
+            "kichik g’ildirak",
+            "katta g’ildirak",
+            "nurlangan",
+            "tantana qiluvchi"
+        ],
+        "answer": "kichik g’ildirak"
+    },
+    {
+        "id": 65,
+        "question": "«Maxayana» oqimi buddaviylikda qanday ma’noni anglatadi?",
+        "options": [
+            "katta g’ildirak",
+            "tantana qiluvchi",
+            "kichik g’ildirak",
+            "donishmand"
+        ],
+        "answer": "katta g’ildirak"
+    },
+    {
+        "id": 66,
+        "question": "«Sekta» so’zining lug’aviyma’nosi nima?",
+        "options": [
+            "Lotincha - fikrlash, faoliyat, hayot, yo’nalish shakli",
+            "lotincha – sir, muqaddas",
+            "lotincha – dunyoviy",
+            "lotincha – yuborish, vazifa topshirish"
+        ],
+        "answer": "Lotincha - fikrlash, faoliyat, hayot, yo’nalish shakli"
+    },
+    {
+        "id": 67,
+        "question": "“E’tiqod” so’zining ma’nosini aniqlang?",
+        "options": [
+            "chuqur, mustahkam ishonch",
+            "dunyoqarash, ongililik",
+            "vazifa, qoida",
+            "onglilik, ishonch"
+        ],
+        "answer": "chuqur, mustahkam ishonch"
+    },
+    {
+        "id": 68,
+        "question": "Diniy ongning tuzilishini to’g’ri ko’rsating?",
+        "options": [
+            "Diniy psixologiya, diniy ideologiya",
+            "Diniy ruhiyat, diniy harakat",
+            "Diniy mafkura, diniy g’oya",
+            "Dindorlik, dahriylik g’oyasi"
+        ],
+        "answer": "Diniy psixologiya, diniy ideologiya"
+    },
+    {
+        "id": 69,
+        "question": "Xudolar va dinlar haqidagi fan bu…",
+        "options": [
+            "teologiya",
+            "filosofiya",
+            "filologiya",
+            "dialogiya"
+        ],
+        "answer": "teologiya"
+    },
+    {
+        "id": 70,
+        "question": "Hadis ilmida buyuk obro’ga erishgan vatandoshlarimizni ko’rsating?",
+        "options": [
+            "Imom Buxoriy, at-Termiziy",
+            "Imom Sharif, Imom Koshifiy",
+            "Imom Husayn, Imom Hasan",
+            "Imom Motrudiy, Imom Ahmadiy"
+        ],
+        "answer": "Imom Buxoriy, at-Termiziy"
+    },
+    {
+        "id": 71,
+        "question": "Yer yuzida Olloh yuborgan payg’ambarlar soni nechta? \n",
+        "options": [
+            "124 ming",
+            "230 ming",
+            "24 ming",
+            "150 ming"
+        ],
+        "answer": "124 ming"
+    },
+    {
+        "id": 72,
+        "question": "Dil ba yoru, dast ba kor” – “Ko’ngil Ollohda, qo’l ishda bo’lsin” shiorining muallifi kim?",
+        "options": [
+            "Bahouddin Naqshband",
+            "Sulaymon Boqirg’oniy",
+            "Xoja AhrorValiy",
+            "Najmiddin Kubro"
+        ],
+        "answer": "Bahouddin Naqshband"
+    },
+    {
+        "id": 73,
+        "question": "“Lamaizm” qaysi davlatning asosiy dini hisoblanadi?",
+        "options": [
+            "Tibet",
+            "Buryatiya",
+            "Tuva",
+            "Oltoy"
+        ],
+        "answer": "Tibet"
+    },
+    {
+        "id": 74,
+        "question": "Xristianlik dinidagi asosiy oqimlar qaysi qatorda to’g’ri belgilangan?",
+        "options": [
+            "Pravoslav, katolik, protestantizm",
+            "Kalvinizm, baptizm, pravoslav",
+            "Baptizm, katolik, pravoslav",
+            "Pravoslav, katolik, Sufizm"
+        ],
+        "answer": "Pravoslav, katolik, protestantizm"
+    },
+    {
+        "id": 75,
+        "question": "Tavrot” nechta kitoblarga bo’linadi?",
+        "options": [
+            "5 ta",
+            "4 ta",
+            "3 ta",
+            "2 ta"
+        ],
+        "answer": "5 ta"
+    },
+    {
+        "id": 76,
+        "question": "Kalvinizm shakllanishiga sabab bo’lgan asarning nomi qaysi qatorda to’g’ri ko’rsatilgan?",
+        "options": [
+            "“Xristian dinidagi ko’rsatmalar”",
+            "“Umumiy ibratlar kitobi”",
+            "“Injil”",
+            "“Tripitaka”"
+        ],
+        "answer": "“Xristian dinidagi ko’rsatmalar”"
+    },
+    {
+        "id": 77,
+        "question": "Iso Masih qayerda yashab o’tgan?",
+        "options": [
+            "Falastin",
+            "Hindiston",
+            "Xitoy",
+            "Suriya"
+        ],
+        "answer": "Falastin"
+    },
+    {
+        "id": 78,
+        "question": "Xristianlik dini qachon vujudga keldi?",
+        "options": [
+            "milodiy I asrda",
+            "milodiyII asrda",
+            "miloddan taxminan 100 yil oldin",
+            "\nmil. avv.XI asrda"
+        ],
+        "answer": "milodiy I asrda"
+    },
+    {
+        "id": 79,
+        "question": "Yangi ahd tarkibiga kirgan Injillar qatorini belgilang?",
+        "options": [
+            "Matvey, Luka, Marko, Ioann",
+            "Matvey, Luka, Levit, Ibtido",
+            "Matvey, Luka, Levit, Soklar",
+            "Matvey, Luka, Levit, Fetiy"
+        ],
+        "answer": "Matvey, Luka, Marko, Ioann"
+    },
+    {
+        "id": 80,
+        "question": "Xristianlik qachon Rim imperiyasining davlat diniga aylandi?",
+        "options": [
+            "milodning 324 yili",
+            "milodning 325 yili",
+            "milodning 451 yili",
+            "milodning 1054 yili"
+        ],
+        "answer": "milodning 324 yili"
+    },
+    {
+        "id": 81,
+        "question": "Xristianlik dinidagi bo’linish qachon sodir bo’ldi?",
+        "options": [
+            "1054 yil",
+            "451 yil",
+            "325 yil",
+            "1526 yil"
+        ],
+        "answer": "1054 yil"
+    },
+    {
+        "id": 82,
+        "question": "Protestant oqimining eng yirik yo’nalishlari qaysilar?",
+        "options": [
+            "Baptizm,\nanglikan,\nadventistlar",
+            "Kalvinistlar, anglikanlik, bahoiylik",
+            "Iyegova shohidlari, kalvinizm",
+            "Lyuteranlik,\nlamaizm"
+        ],
+        "answer": "Baptizm,\nanglikan,\nadventistlar"
+    },
+    {
+        "id": 83,
+        "question": "Xochga mixlangan Iso Masihning “Mo’jizaviy tirilishi”ga bag’ishlangan xristianlikning eng asosiy bayramlaridan biri qaysi?",
+        "options": [
+            "pasxa",
+            "troisa",
+            "rojdestvo Xristovo",
+            "pyatidesyatinisa"
+        ],
+        "answer": "pasxa"
+    },
+    {
+        "id": 84,
+        "question": "«Baptizm» so’zining lug’aviy ma’nosi qanday?",
+        "options": [
+            "yunoncha, suvga cho’ktirish",
+            "lotincha, kelish",
+            "yunoncha,eng \neski",
+            "lotincha, umumiy, dunyoviy"
+        ],
+        "answer": "yunoncha, suvga cho’ktirish"
+    },
+    {
+        "id": 85,
+        "question": "Pravoslav xristianlarning jahonda nechta mustaqil cherkovlari mavjud?",
+        "options": [
+            "15 ta",
+            "10 ta",
+            "20 ta",
+            "22 ta"
+        ],
+        "answer": "15 ta"
+    },
+    {
+        "id": 86,
+        "question": "Jahon katolik xristianlarining markazi?",
+        "options": [
+            "\nVatikan",
+            "\n Lyuksemburg",
+            "\nRim",
+            "\nLondon"
+        ],
+        "answer": "\nVatikan"
+    },
+    {
+        "id": 87,
+        "question": "Butun Olam Xristian Sobori qachon bo’lib o’tgan?",
+        "options": [
+            "325-yili",
+            "350-yili",
+            "313-yili",
+            "380-yili"
+        ],
+        "answer": "325-yili"
+    },
+    {
+        "id": 88,
+        "question": "“Nasroniy” xristianlikdan qanday kelib chiqqan?",
+        "options": [
+            "Iso masihning tug’ilgan qishlog’i “nazaret” nomi bilan bog’liq",
+            "yahudiy tilida “xaloskor” degani",
+            "yunon tilida “qutqaruvchi” degani",
+            "Rimda Isoning tug’ilgan qishlog’i nomi bilan bog’liq"
+        ],
+        "answer": "Iso masihning tug’ilgan qishlog’i “nazaret” nomi bilan bog’liq"
+    },
+    {
+        "id": 89,
+        "question": "Iso Masih shogirdlari kimlar va ular xristianlikdagi qaysi kitobni yozib qoldirdilar?",
+        "options": [
+            "ular apostollar - havoriylar bo’lib, Bibliyaning “Yangi ahd” qismini yozib qoldirgan",
+            "ular sahobalar bo’lib, Tavrotni yozganlar",
+            "ular apostollar bo’lib, Torani yozganlar",
+            "ular monaxlar bo’lib, “Tripitaka”ni yozib qoldirganlar"
+        ],
+        "answer": "ular apostollar - havoriylar bo’lib, Bibliyaning “Yangi ahd” qismini yozib qoldirgan"
+    },
+    {
+        "id": 90,
+        "question": "Xristianlikning qaysi oqimi Yevropa va Lotin Amerikasida eng ko’p tarqalgan?",
+        "options": [
+            "katolitsizm",
+            "pravoslav",
+            "baptizm",
+            "protestantizm"
+        ],
+        "answer": "katolitsizm"
+    },
+    {
+        "id": 91,
+        "question": "Xristian dinida kalvinizm sektasi asoschisi kim?\n",
+        "options": [
+            "Jon Kalvin",
+            "Artur Kalvin",
+            "Jeyms Kalvin",
+            "Fridrix Kalvin"
+        ],
+        "answer": "Jon Kalvin"
+    },
+    {
+        "id": 92,
+        "question": "A’rof haqidagi (do’zax va jannat oralig’idagi) ta’limot xristianlikning qaysi oqimida mavjud?",
+        "options": [
+            "Katolik oqimi",
+            "Protestantlik oqimi",
+            "Provaslav oqimi",
+            "Bunday ta’limot xristianlik dinida mavjud emas"
+        ],
+        "answer": "Katolik oqimi"
+    },
+    {
+        "id": 93,
+        "question": "Pravoslav oqimi qaysi hududlarda keng tarqalgan?",
+        "options": [
+            "Sharqiy Yevropa va Bolqon mamlakatlari",
+            "Lotin Amerikasi, Janubiy va G’arbiy Yevropa",
+            "Yevropa, Shimoliy Amerika, Afrika qit’alari",
+            "Bolqon mamlakatlari, Afrika qit’alari"
+        ],
+        "answer": "Sharqiy Yevropa va Bolqon mamlakatlari"
+    },
+    {
+        "id": 94,
+        "question": "Protestantlik (lotincha «proiestans») - so’zining lug’aviy ma’nosi.",
+        "options": [
+            "e’tiroz bildiruvchi",
+            "qarama-qarshi",
+            "ziddiyat",
+            "chin e’tiqod"
+        ],
+        "answer": "e’tiroz bildiruvchi"
+    },
+    {
+        "id": 95,
+        "question": "«Hech kim, jumladan, ota-onalar ham kishi uchun biror dinni tanlay olmaydi. Kishi dinni ongli ravishda o’zi ixtiyor qilmog’i zarur»- degan qoida protestantlikning qaysi yo’nalishiga mansub?",
+        "options": [
+            "Baptistlar",
+            "Lyuteranlar",
+            "Kalvinistlar",
+            "Adventistlar"
+        ],
+        "answer": "Baptistlar"
+    },
+    {
+        "id": 96,
+        "question": "Xalifa Usmon davrida amalga oshirilgan muhim tadbir nima edi? \n",
+        "options": [
+            "Qur’on oyatlari to’planib yagona kitob holiga keltirildi",
+            "Arab xalifaligi tashkil topdi",
+            "Qur’on oyatlari yakka kitob holiga keltirila boshlandi",
+            "Islom dini jahon diniga aylantirildi"
+        ],
+        "answer": "Qur’on oyatlari to’planib yagona kitob holiga keltirildi"
+    },
+    {
+        "id": 97,
+        "question": "Hijriy yil qaysi milodiy yildan boshlangan?",
+        "options": [
+            "622",
+            "570",
+            "610",
+            "632"
+        ],
+        "answer": "622"
+    },
+    {
+        "id": 98,
+        "question": "Jahon dinlari ichida eng yoshi qaysi din? \n",
+        "options": [
+            "\n\nIslom",
+            "\n\n   Xristian",
+            "\n\nBuddaviylik",
+            "\n\nYahudiylik"
+        ],
+        "answer": "\n\nIslom"
+    },
+    {
+        "id": 99,
+        "question": "\"Islom arkonlari\"- (islomning 5 ustuni) diniy marosimlarni o’z ichiga oladi. Bular quyidagilardan qaysilar? \n1. Kalimai shahodat. 2.Namoz o’qish. 3.Farishtalarga ishonish. \n4. Muqaddas kitoblarga ishonish. \n5. Ro’za tutish. \n6. Zakot berish. 7.Oxiratga ishonish. 8.Haj qilish",
+        "options": [
+            "1, 2, 5, 6, 8",
+            "1, 7, 4, 6, 8",
+            "2,4, 6, 7, 8",
+            "2, 3, 4, 6, 7"
+        ],
+        "answer": "1, 2, 5, 6, 8"
+    },
+    {
+        "id": 100,
+        "question": "Islom qaysi dinlar qatoriga kiradi?",
+        "options": [
+            "yakka xudolik",
+            "ko’p xudolik",
+            "xudolarsiz din",
+            "millat dinlari"
+        ],
+        "answer": "yakka xudolik"
+    },
+    {
+        "id": 101,
+        "question": "Qur’oni Karimning 651 yili mufassal kitob holidagi nusxasi yaratildi. Bu kim tomonidan amalga oshirildi?",
+        "options": [
+            "Zayd ibn Sobit",
+            "Ubayd ibn Ka’b",
+            "Maoz ibn Jabal",
+            "Abu Sufyon ibn Muoviya"
+        ],
+        "answer": "Zayd ibn Sobit"
+    },
+    {
+        "id": 102,
+        "question": "Qaysi mamlakatlarda islom - rasmiy din deb, e’lon qilingan?",
+        "options": [
+            "Saudiya Arabistoni, Liviya, Birlashgan Arab Amirliklari, Iordaniya, Pokiston, Eron",
+            "Saudiya Arabistoni, Liviya, Iordaniya, Pokiston",
+            "Iordaniya, Xitoy, Koreya, Yaponiya, Hindiston",
+            "Saudiya Arabistoni, Italiya, Pokiston, Eron, Yaponiya"
+        ],
+        "answer": "Saudiya Arabistoni, Liviya, Birlashgan Arab Amirliklari, Iordaniya, Pokiston, Eron"
+    },
+    {
+        "id": 103,
+        "question": "Qur’oni Karim kim tomonidan o’zbek tiliga tarjima qilindi?",
+        "options": [
+            "Alouddin Mansur tomonidan, 1992 yil “Cho’lpon” nashriyotida nashr etilgan",
+            "Jamol Kamol tomonidan, 1995 yil “Meros” nashriyotida nashr etilgan",
+            "Jurjoniy tomonidan, 1991 yil “Cho’lpon” nashriyotida nashr etilgan",
+            "Ibrohim Haqqultomonidan, 1992 yil “Cho’lpon” nashriyotida nashr etilgan"
+        ],
+        "answer": "Alouddin Mansur tomonidan, 1992 yil “Cho’lpon” nashriyotida nashr etilgan"
+    },
+    {
+        "id": 104,
+        "question": "Islom tarixida birinchi ko’chish “hijrat”davri qayerda yuz bergan?",
+        "options": [
+            "Makkadan Madinaga",
+            "MadinadanMakkaga",
+            "Makkadan Shomga",
+            "Makkadan Xabashistonga"
+        ],
+        "answer": "Makkadan Madinaga"
+    },
+    {
+        "id": 105,
+        "question": "Islom dinida “fiqh” nimani ifoda qiladi?",
+        "options": [
+            "huquqshunoslik",
+            "tariqat",
+            "ma’rifat",
+            "islom sudi"
+        ],
+        "answer": "huquqshunoslik"
+    },
+    {
+        "id": 106,
+        "question": "Musulmon diniy boshqarmasi rahbarlari qanday nom bilan atalgan?",
+        "options": [
+            "Muftiy",
+            "Sufi",
+            "Muxtasar",
+            "Mutavaali"
+        ],
+        "answer": "Muftiy"
+    },
+    {
+        "id": 107,
+        "question": "Muhammad s.a.v. qaysi yili o’zini Allohning rasuli (elchisi) deb e’lon qildi?",
+        "options": [
+            "610",
+            "622",
+            "570",
+            "632"
+        ],
+        "answer": "610"
+    },
+    {
+        "id": 108,
+        "question": "Islomda kimlar to’g’ri xalifalar deb hisoblanadi?",
+        "options": [
+            "Abu Bakr, Umar, Usmon, Ali",
+            "Muhammad, Ali, Xasan, Xusan",
+            "Abu Xurayro, Ibn Hanbal, Ibn Xoshim",
+            "\nIbrohim, Muso, Iso, Dovud"
+        ],
+        "answer": "Abu Bakr, Umar, Usmon, Ali"
+    },
+    {
+        "id": 109,
+        "question": "Qurbon hayiti qachon bayram qilinadi?",
+        "options": [
+            "ro’za tugaganidan boshlab, 70 kundan so’ng",
+            "ro’zadan 70 kun oldin",
+            "ro’zadan 3 kun oldin",
+            "ro’za tugagandan boshlab 100 kundan so’ng"
+        ],
+        "answer": "ro’za tugaganidan boshlab, 70 kundan so’ng"
+    },
+    {
+        "id": 110,
+        "question": "Qur’oni Karim sahifalarini yakka kitob shakliga keltirish qaysi xalifa davrida boshlangan?",
+        "options": [
+            "Xalifa Abu Bakr davrida",
+            "Xalifa Usmon davrida",
+            "Xalifa Umar davrida",
+            "Xalifa Ali davrida"
+        ],
+        "answer": "Xalifa Abu Bakr davrida"
+    },
+    {
+        "id": 111,
+        "question": "Islomdagi asosiy mazhablar?",
+        "options": [
+            "Hanafiya, Xanbaliya,Shofeiya, Molikiya",
+            "Hanafiya, Jafariya, Ismoiliya, Imomiya",
+            "Shofeiya, Kaysoniya, Vaxdoniya, Chishtiya",
+            "Hanbaliya, Xainshoshiya, Jafariya, Ibodiya"
+        ],
+        "answer": "Hanafiya, Xanbaliya,Shofeiya, Molikiya"
+    },
+    {
+        "id": 112,
+        "question": "Qur’oni Karimda nechta sura va oyat bor?",
+        "options": [
+            "114 sura 6236 oyat",
+            "110 sura 6232 oyat",
+            "112 sura 6626 oyat",
+            "113 sura 6336 oyat"
+        ],
+        "answer": "114 sura 6236 oyat"
+    },
+    {
+        "id": 113,
+        "question": "Shia musulmonlari e’zozlaydigan va e’tirof etadigan xalifa?",
+        "options": [
+            "Xalifa Ali",
+            "Xalifa Umar",
+            "Xalifa Usmon",
+            "Xalifa Abu Bakr"
+        ],
+        "answer": "Xalifa Ali"
+    },
+    {
+        "id": 114,
+        "question": "Qur’oni Karimning yaratilishida bevosita ishtirok etgan shaxs?",
+        "options": [
+            "Zayd ibn Sobit",
+            "Zayd ibn Xorris",
+            "Zayd ibn Xishom",
+            "Zayd ibn Ali"
+        ],
+        "answer": "Zayd ibn Sobit"
+    },
+    {
+        "id": 115,
+        "question": "Islom an’anasi bo’yicha jon oluvchi farishtaning nomi...",
+        "options": [
+            "Azroil",
+            "Jabroil",
+            "Isrofil",
+            "Mikoil"
+        ],
+        "answer": "Azroil"
+    },
+    {
+        "id": 116,
+        "question": "Musulmon huquqshunosligida shariat manbalariga nimalar kiradi?",
+        "options": [
+            "Qur’on, Sunnat, Ijmo’, Qiyos",
+            "Farz, vojib, sunnat, mandub",
+            "Hadis, Sunnat, Ijmo’,qiyos",
+            "Qur’on, Hadis, Ijmo’, Qiyos"
+        ],
+        "answer": "Qur’on, Sunnat, Ijmo’, Qiyos"
+    },
+    {
+        "id": 117,
+        "question": "Shariatda bajarilishi lozim bo’lgan amallardan biri bo’lgan Vojib - nima?",
+        "options": [
+            "farzdan keyin turadigan zarur amallar",
+            "nihoyatda majburiy hisoblangan hatti-harakatlar",
+            "bajarilishi lozim va savobli amallar",
+            "taqiqlanmagan, ma’qullanmagan hatti-harakatlar"
+        ],
+        "answer": "farzdan keyin turadigan zarur amallar"
+    },
+    {
+        "id": 118,
+        "question": "Hadis ilmining sultoni – Imom al- Buxoriy tavalludining 1225 yilligi qachon mamlakatimizda keng nishonlandi?",
+        "options": [
+            "1998 yil",
+            "1997",
+            "1995",
+            "1993"
+        ],
+        "answer": "1998 yil"
+    },
+    {
+        "id": 119,
+        "question": "Islom tarixida «Laylat ul-qadr» (Qadr kechasi) deb nimaga aytiladi?",
+        "options": [
+            "Muhammad\n (s.a.v)ga vahiy kela boshlagan birinchi kunga",
+            "Muhammad \n(s.a.v)ning Ka’ba toshini o’z joyiga qo’ygan kunga",
+            "Muhammad \n(s.a.v)ni farishtalar tomonidan qalblaridan shayton nasibasini olgan kunga",
+            "Qur’oni Karim nozil bo’lishi\nning so’nggi kuniga"
+        ],
+        "answer": "Muhammad\n (s.a.v)ga vahiy kela boshlagan birinchi kunga"
+    },
+    {
+        "id": 120,
+        "question": "Muhammad (s.a.v.)ga dastlabki vahiy kela boshlaganida ular necha yoshda edi?",
+        "options": [
+            "40 yoshida",
+            "30 yoshida",
+            "63 yoshida",
+            "35 yoshida"
+        ],
+        "answer": "40 yoshida"
+    },
+    {
+        "id": 121,
+        "question": "Arabiston yagona davlatga (xalifalikka) birlashtirilib, islom qachondan yagona hukmron dinga aylangan?",
+        "options": [
+            "630-yilda",
+            "632-yilda",
+            "622-yilda",
+            "610-yilda"
+        ],
+        "answer": "630-yilda"
+    },
+    {
+        "id": 122,
+        "question": "Shariat – so’zining lug’aviy ma’nosi…",
+        "options": [
+            "arabcha, to’g’ri yo’l",
+            "arabcha, guvoh",
+            "arabcha, guruh, tarafdorlar",
+            "arabcha, ajrash"
+        ],
+        "answer": "arabcha, to’g’ri yo’l"
+    },
+    {
+        "id": 123,
+        "question": "Islom ta’limotida musulmonlar uchun ibrat hisoblangan Muhammad payg’ambarning so’zlari, qilgan ishlari va hatti-harakatlari nima deyiladi?",
+        "options": [
+            "Sunna",
+            "Hadis",
+            "Ijmo",
+            "Qiyos"
+        ],
+        "answer": "Sunna"
+    },
+    {
+        "id": 124,
+        "question": "Islom dini ilohiyotda qaysi elemetlardan iborat?",
+        "options": [
+            "Iymon, Islom,Ehson",
+            "Iymon, Ibodat, Ehson",
+            "Qur’on, Hadis, Hidoya",
+            "Xalifalik, Shialik, Sunniylik"
+        ],
+        "answer": "Iymon, Islom,Ehson"
+    },
+    {
+        "id": 125,
+        "question": "Qaysi qatorda xronologik xatoga yo’l qo’yilgan?",
+        "options": [
+            "Tasavvuf ta’limoti X asrda shakllangan",
+            "1999-yilda Toshkentda Islom Universiteti ochilgan",
+            "622 yilda Muhammad payg’ambar Makkadan Madinaga hijrat qilgan",
+            "XII asrda Markaziy Osiyoda Yassaviy tariqati shakllangan"
+        ],
+        "answer": "Tasavvuf ta’limoti X asrda shakllangan"
+    },
+    {
+        "id": 126,
+        "question": "Nasrоniylikning bоsh ibоdati qaysi?",
+        "options": [
+            "Liturgiya",
+            "Nasrоniy avliyolarga sig’inish",
+            "Injilni muqaddas dеb bilish",
+            "Cherkоvni muqaddas dеb bilish"
+        ],
+        "answer": "Liturgiya"
+    },
+    {
+        "id": 127,
+        "question": "Qaysi qatorda mantiqan noto’g’ri fikr berilgan? \n",
+        "options": [
+            "Dunyoviy imon - Ollohga, uning borligi, birligiga ishonish demakdir",
+            "Hadislar - payg’ambarning so’zlari, qilgan amallari, bergan pandu-nasihatlari majmui",
+            "Qur’oni Karim xalifa Usmon davrida kitob holiga keltirilgan",
+            "Sahih deb ishonarli hadis to’plamiga aytiladi"
+        ],
+        "answer": "Dunyoviy imon - Ollohga, uning borligi, birligiga ishonish demakdir"
+    },
+    {
+        "id": 128,
+        "question": "Markaziy osiyoda o’z tariqatini, ya’ni yo’lini ishlab chiqqan va targ’ib etgan tasavvuf tariqatchilarini aniqlang?",
+        "options": [
+            "\nXoja Ahmad Yassaviy, Shayx Najmiddin Kubro, Sayid Bahouddin Naqshband",
+            "\nXoja Ahmad Yassaviy, Xoja Abduxoliq G’ijduvoniy, Xoja Ubaydulloh Ahror",
+            "Abdurahmon Jomiy, Alisher Navoiy, Zahiriddin Muhammad Bobur",
+            "\nIsmoil al- Buxoriy, Imom at-Termiziy"
+        ],
+        "answer": "\nXoja Ahmad Yassaviy, Shayx Najmiddin Kubro, Sayid Bahouddin Naqshband"
+    },
+    {
+        "id": 129,
+        "question": "Mashhur “Al-Jome’ as-sahih” asari muallifi kim?",
+        "options": [
+            "Imom al-Buxoriy",
+            "AhmadYassaviy",
+            "Najmiddin Kubro",
+            "Imom at-Termiziy"
+        ],
+        "answer": "Imom al-Buxoriy"
+    },
+    {
+        "id": 130,
+        "question": "“Aqida” so’zining ma’nosi qaysi javobda to’g’ri keltirilgan?",
+        "options": [
+            "Dindorlar uchun majburiy bo’lgan, ular shak keltirmasdan, muhokama qilmasdan bajarish, e’tiqod qilish lozim, deb hisoblaydigan diniy talablar",
+            "Muayyan sharoitda, biron-bir g’oya yoki tamoyilga qat’iy ishonch va uni mutlaqlashtirish asosida shakllangan qoida va tartiblarni, boshqa sharoit, holat, vaziyatni hisobga olmagan holda, ko’r- ko’rona qo’llashga urinish",
+            "Har qanday hokimiyat va davlatni inkor etish, har kim o’ziga-o’zi xo’jayin, degan qarashni asos qilib oluvchi g’oyalar asosida shakllangan ijtimoiy-siyosiy tushuncha",
+            "Dinni, umuman, ilohiy kuchlarga e’tiqod qilishni inkor etish"
+        ],
+        "answer": "Dindorlar uchun majburiy bo’lgan, ular shak keltirmasdan, muhokama qilmasdan bajarish, e’tiqod qilish lozim, deb hisoblaydigan diniy talablar"
+    },
+    {
+        "id": 131,
+        "question": "XII asrda Xorazmda tasavvuf ilmining asoschisi kim?",
+        "options": [
+            "Najmiddin Kubro",
+            "Ahmad Yassaviy",
+            "Bahouddin Naqshband",
+            "Muhammad Muso al- Xorazmiy"
+        ],
+        "answer": "Najmiddin Kubro"
+    },
+    {
+        "id": 132,
+        "question": "Hadislar nima? \n",
+        "options": [
+            "Muhammad payg’ambarning hayoti, faoliyati, diniy va axloqiy ko’rsatmalarini \nmujassamlashtirgan ta’limot",
+            "shariat qonunlari va olimu-ulomalar fatvolari jamlangan diniy kitob \n",
+            "Qur’oni Karimga yozilgan sharhlar",
+            "jahon musulmon ulomalari uyushmasi chiqargan qonun-qoidalar"
+        ],
+        "answer": "Muhammad payg’ambarning hayoti, faoliyati, diniy va axloqiy ko’rsatmalarini \nmujassamlashtirgan ta’limot"
+    },
+    {
+        "id": 133,
+        "question": "Shariat nima?",
+        "options": [
+            "barcha musulmonlar uchun bajarilishi majbur bo’lgan qonunlar, huquqiy-axloqiy ko’rsatmalar tizimi",
+            "islom dini qoidalarini o’rgatuvchi ta’limot",
+            "hadislar asosida tuzilgan to’plam",
+            "oilaviy munosabatlarni tartibga soluvchi qonun"
+        ],
+        "answer": "barcha musulmonlar uchun bajarilishi majbur bo’lgan qonunlar, huquqiy-axloqiy ko’rsatmalar tizimi"
+    },
+    {
+        "id": 134,
+        "question": "Islomning asosiy yo’nalishlari qaysi yo’nalishlar?",
+        "options": [
+            "sunniylar va shialar",
+            "so’fiylik, shialar, ismoiliylar",
+            "hanafiya va hanbaliya",
+            "sunniylar va sufiylar"
+        ],
+        "answer": "sunniylar va shialar"
+    },
+    {
+        "id": 135,
+        "question": "Qur’oni Karimda \"ilm\" so’zi necha marta takrorlangan?",
+        "options": [
+            "750 marta",
+            "700 marta",
+            "800 marta",
+            "850 marta"
+        ],
+        "answer": "750 marta"
+    },
+    {
+        "id": 136,
+        "question": "Shariat qonun- qoidalarini o’rganuvchi fan...",
+        "options": [
+            "fiqh",
+            "shariat",
+            "tasavvuf",
+            "dinshunoslik"
+        ],
+        "answer": "fiqh"
+    },
+    {
+        "id": 137,
+        "question": "Islomning nechta aqidasi mavjud?",
+        "options": [
+            "7 ta",
+            "5 ta",
+            "3 ta",
+            "6 ta"
+        ],
+        "answer": "7 ta"
+    },
+    {
+        "id": 138,
+        "question": "Imom A’zam yoki Abu Hanifa kim?",
+        "options": [
+            "Hanafiya mazhabiasoschisi",
+            "Imomiya mazhabi asoschisi",
+            "Xanbaliya mazhabi asoschisi",
+            "Shofeiya mazhabi asoschisi"
+        ],
+        "answer": "Hanafiya mazhabiasoschisi"
+    },
+    {
+        "id": 139,
+        "question": "Islomni zamonaga moslashtirish lozimligini e’tirof etuvchi oqim qaysi?",
+        "options": [
+            "Islom modernizmi",
+            "Islom fundamentalizmi",
+            "Islom tradisionalizmi",
+            "Islom fanatizmi"
+        ],
+        "answer": "Islom modernizmi"
+    },
+    {
+        "id": 140,
+        "question": "“Al jome’ - as sahih”, “al Adab - al Mufrad” qaysi allomaning asari hisoblanadi?",
+        "options": [
+            "Imom al-Buxoriy",
+            "Al-Xorazmiy",
+            "At-Termiziy",
+            "Abu Ali Ibn Sino"
+        ],
+        "answer": "Imom al-Buxoriy"
+    },
+    {
+        "id": 141,
+        "question": "1993 yil qaysi buyuk mutasavvuf yili deb e’lon qilingan edi?",
+        "options": [
+            "Ahmad Yassaviy",
+            "JaloliddinRumiy",
+            "Yusuf Hamadoniy",
+            "Abduxoliq G’ijduvoniy"
+        ],
+        "answer": "Ahmad Yassaviy"
+    },
+    {
+        "id": 142,
+        "question": "So’fiylikda kamolotga erishuv yo’lini aniqlang?",
+        "options": [
+            "Shariat, tariqat, ma’rifat, \nhaqiqat",
+            "Hikmat, axbor, xizr, \nhalim",
+            "Iqror, ma’rifat, sharoat, rizq",
+            "Islom, sunnat, adl, ikrom"
+        ],
+        "answer": "Shariat, tariqat, ma’rifat, \nhaqiqat"
+    },
+    {
+        "id": 143,
+        "question": "Islomda nechta siyosiy-diniy oqimlar mavjud?",
+        "options": [
+            "Uchta: ahli sunna, shialik, xorijiylik",
+            "Ikkita: xorijiylar, shialar",
+            "To’rta: bobiylar, azrakiylar, ahli sunna, qadariylar",
+            "Bitta: ahli sunna val jamoa"
+        ],
+        "answer": "Uchta: ahli sunna, shialik, xorijiylik"
+    },
+    {
+        "id": 144,
+        "question": "1221 yilda mo’g’ul bosqinchilariga qarshi kurashda vafot etgan tasavvuf ilmining sultoni...",
+        "options": [
+            "Najmiddin Kubro",
+            "Ahmad Yassaviy",
+            "Yusuf Hamadoniy",
+            "Sayf ad-Din Boxarziy"
+        ],
+        "answer": "Najmiddin Kubro"
+    },
+    {
+        "id": 145,
+        "question": "“Ahli sunna val- jamoa” tarkibiga kiruvchi fiqhiy mazhablardan qaysi biri O’zbekiston hududida keng tarqalgan?",
+        "options": [
+            "Hanafiy mazhabi",
+            "Molikiy mazhabi",
+            "Shofe’iymazhabi",
+            "Hanbaliy mazhabi"
+        ],
+        "answer": "Hanafiy mazhabi"
+    },
+    {
+        "id": 146,
+        "question": "Fundamentalizm tushunchasining mazmuni…",
+        "options": [
+            "ma’lum din vujudga kelgan ilk davrga qaytish",
+            "ashaddiy mutaassiblik",
+            "konstitusiyaviy tuzum barqarorligi",
+            "etnik jihatdan nasl-nasabni izlashga intilish"
+        ],
+        "answer": "ma’lum din vujudga kelgan ilk davrga qaytish"
+    },
+    {
+        "id": 147,
+        "question": "Konfessiyalar o’rtasida nizo chiqmasligi uchun davlat qanday tadbirlarni qo’llaydi?",
+        "options": [
+            "Ular konstitusiya oldida huquq va majburiyat yuzasidan teng ekanligiga amal qiladi",
+            "Konfessiyalarni bir- biridan ustun qo’yadi",
+            "Dinning tarbiyaviy rolidan foydalanadi",
+            "Diniy tashkilotlar mulklariga aralashmaydi"
+        ],
+        "answer": "Ular konstitusiya oldida huquq va majburiyat yuzasidan teng ekanligiga amal qiladi"
+    },
+    {
+        "id": 148,
+        "question": "“Hizbut-tahrir” dasturining asosiy maqsadi.",
+        "options": [
+            "Islom davlatini tuzish",
+            "Millatni qo’lga olish",
+            "Iymonga yo’l tutish",
+            "Yoshlarni tanlash"
+        ],
+        "answer": "Islom davlatini tuzish"
+    },
+    {
+        "id": 149,
+        "question": "Vijdon erkinligining mohiyati nima?",
+        "options": [
+            "Insonning o’z dunyoqarash mavqeini, shu jumladan dinga munosabatini ham erkin tanlashi",
+            "Aqlning diniy qoidalarni erkin tanqidiy kirib chiqishi va atrof olamni dinga bog’liq bo’lmagan holda o’rganish",
+            "Diniy normalarga muvofiq diniy talablarni amalga oshiruvchi individ yoki go’ruhning birgalikdagi harakati",
+            "Tinchlikni passiv targ’ib qilishga va urushlarni qoralashga asoslangan burjua liberal siyosiy oqimining diniy turi"
+        ],
+        "answer": "Insonning o’z dunyoqarash mavqeini, shu jumladan dinga munosabatini ham erkin tanlashi"
+    },
+    {
+        "id": 150,
+        "question": "Qaysi asrda vahhobiylik oqimi vujudga kelgan?",
+        "options": [
+            "XVIII asrda",
+            "XIX asrda",
+            "XX asrda",
+            "XVI asrda"
+        ],
+        "answer": "XVIII asrda"
+    },
+    {
+        "id": 151,
+        "question": "Vahhobiylik mafkurasi asosidagi “Musulmon birodarlari” tashkiloti qayerda shakllandi?",
+        "options": [
+            "“Alloh - bizningidealimiz, payg’ambar - yo’lboshchimiz, jihod - maqsadimizgaerishishvositasi, Allohyo’lidashahidbo’lishmuqaddastilagimiz”- shioribilanMisrda",
+            "“Abxosh” nomi bilan \n            Livanda",
+            "“Dorul Arkam” nomi bilan Malayziyada",
+            "“Har bir yangilik zalolatdir” shiori bilan BAA da"
+        ],
+        "answer": "“Alloh - bizningidealimiz, payg’ambar - yo’lboshchimiz, jihod - maqsadimizgaerishishvositasi, Allohyo’lidashahidbo’lishmuqaddastilagimiz”- shioribilanMisrda"
+    },
+    {
+        "id": 152,
+        "question": "Jahondagi qaysi davlatlar ekstremizm va terrorizmdan yaxshi himoyalangan?",
+        "options": [
+            "Jahondagi hech bir davlat himoyalanmagan",
+            "Yevropa davlatlari",
+            "Amerika va Angliya davlatlari",
+            "Markaziy Osiyodagi davlatlari"
+        ],
+        "answer": "Jahondagi hech bir davlat himoyalanmagan"
+    },
+    {
+        "id": 153,
+        "question": "Yahudiylik dinining muqaddas manbai hisoblangan “Tavrot” necha kitobdan iborat?",
+        "options": [
+            "5kitobdan",
+            "4 kitobdan",
+            "3 kitobdan",
+            "2 kitobdan"
+        ],
+        "answer": "5kitobdan"
+    },
+    {
+        "id": 154,
+        "question": "“Missionerlik” so’zining ma’nosi nimani anglatadi?",
+        "options": [
+            "bir dinga e’tiqod qiluvchi xalqlar orasida boshqa bir dinni targ’ib qilish",
+            "boshqa dinga bo’ysunish, taslim bo’lish",
+            "bir din vakilini boshqa dinga kiritish",
+            "o’z diniy e’tiqodini boshqa dindan ustun qo’yish"
+        ],
+        "answer": "bir dinga e’tiqod qiluvchi xalqlar orasida boshqa bir dinni targ’ib qilish"
+    },
+    {
+        "id": 155,
+        "question": "“Prozelitizm” so’zining ma’nosi?",
+        "options": [
+            "bir din vakilini boshqa dinga olib kirish",
+            "boshqa diniy e’tiqodni targ’ib qilish",
+            "dinlararo targ’ibot olib borish",
+            "jamiyatda beqarorlikni keltirib chiqarish"
+        ],
+        "answer": "bir din vakilini boshqa dinga olib kirish"
+    },
+    {
+        "id": 156,
+        "question": "Qaysi Rim imperatori davrida Xristianlik davlat dini deb e’lon qilindi?",
+        "options": [
+            "Konstantin",
+            "Avreliy",
+            "Sezar",
+            "Iosiy"
+        ],
+        "answer": "Konstantin"
+    },
+    {
+        "id": 157,
+        "question": "Dinni davlatdan ajratilganligi qaysi hujjatlarda qayd etilgan?",
+        "options": [
+            "O’zbekiston Respublikasining Konstitusiyasi, “Vijdon erkinligi va diniy tashkilotlar to’g’risida”gi qonunda",
+            "Jinoyat huquqi, Jamoat Tashkilotlari haqidagi qonunlarda",
+            "O’zbekiston Respublikasining Konstitusiyasi, Inson huquqlari bo’yicha Xalqaro Paktda",
+            "Jamoat Tashkilotlari haqidagi qonunlarda, Inson huquqlari bo’yicha Xalqaro Paktda"
+        ],
+        "answer": "O’zbekiston Respublikasining Konstitusiyasi, “Vijdon erkinligi va diniy tashkilotlar to’g’risida”gi qonunda"
+    },
+    {
+        "id": 158,
+        "question": "Ateizm nima? \n",
+        "options": [
+            "xudoga va dinga ishonishni inkor etuvchi ilmiy qarashlar tizimi",
+            "xudoga ishonmaslik",
+            "xudoni inkor etish",
+            "dinni ta’qib qilish"
+        ],
+        "answer": "xudoga va dinga ishonishni inkor etuvchi ilmiy qarashlar tizimi"
+    },
+    {
+        "id": 159,
+        "question": "O’zbekiston Respublikasining fuqarosi necha yoshda diniy jamiyatga a’zo bo’lishi mumkin?",
+        "options": [
+            "18 yosh",
+            "16 yosh",
+            "21 yosh",
+            "25 yosh"
+        ],
+        "answer": "18 yosh"
+    },
+    {
+        "id": 160,
+        "question": "Ma’naviy tahdid nima? \n",
+        "options": [
+            "insonning o’zligi va kelajagiga tahdid",
+            "ijtimoiy-siyosiy xuruj",
+            "iqtisodiy va diniy xuruj",
+            "xalqaro miqyosdagi xuruj"
+        ],
+        "answer": "insonning o’zligi va kelajagiga tahdid"
+    },
+    {
+        "id": 161,
+        "question": "YUNESKOning “Bag’rikenglik tamoyillari Deklarasiya” qachon qabul qilingan?",
+        "options": [
+            "1995 y. 16 noyabr",
+            "1948 y. 10 dekabr",
+            "1966 y. 16 dekabr",
+            "2000 y. 13 - 15 sentyabr"
+        ],
+        "answer": "1995 y. 16 noyabr"
+    },
+    {
+        "id": 162,
+        "question": "Sharqda islom dunyosida fanatizmning nomlanishi qanday?",
+        "options": [
+            "mutaassiblik",
+            "mushrikiylik",
+            "mutazilliylik",
+            "mutakallimlik"
+        ],
+        "answer": "mutaassiblik"
+    },
+    {
+        "id": 163,
+        "question": "Mamlakatimizning qaysi qonuniy hujjatida Ro’za va Qurbon hayitlari dam olish kunlari ekanligi belgilab qo’yilgan?",
+        "options": [
+            "O’zbekiston Respublikasi Prezidentining farmonlari",
+            "O’zbekiston Respublikasining Konstitusiyasi",
+            "O’zbekiston Respublikasining “Vijdon erkinligi va diniytashkilotlar to’g’risida”gi \nqonunida",
+            "O’zbekiston Respublikasining “Mehnat kodeksi”da"
+        ],
+        "answer": "O’zbekiston Respublikasi Prezidentining farmonlari"
+    },
+    {
+        "id": 164,
+        "question": "Diniy tashkilotlar qaysi idoralar tomonidan ro’yxatga olinadi?",
+        "options": [
+            "Adliya Vazirligi",
+            "O’zbekiston musulmonlari idorasi",
+            "Vazirlar Mahkamasi",
+            "Diniy ishlar idorasi"
+        ],
+        "answer": "Adliya Vazirligi"
+    },
+    {
+        "id": 165,
+        "question": "“Terror” so’zining lug’aviy ma’nosi? \n",
+        "options": [
+            "Qo’rqitish va dahshatga solish",
+            "Qo’poruvchilik va qotillik",
+            "Kuch ishlatish yo’li bilan odam o’ldirish, jismoniy yo’q qilish",
+            "Yo’ldan ozdirish"
+        ],
+        "answer": "Qo’rqitish va dahshatga solish"
+    },
+    {
+        "id": 166,
+        "question": "Zardushtiylik dinida iymon nimalarga asoslanadi?",
+        "options": [
+            "fikrningsofligi, so’z sobitligi, amallarning insoniyligi",
+            "halol mehnatga, bilimga, tozalik- pokizalikka",
+            "aqlga, fikrning sofligiga, yolg’on so’zlamaslikka",
+            "amallarning insoniyligi, aqlga, fikrning sofligiga"
+        ],
+        "answer": "fikrningsofligi, so’z sobitligi, amallarning insoniyligi"
+    },
+    {
+        "id": 167,
+        "question": "Dinshunoslikda sinkretizm bu...",
+        "options": [
+            "biror narsa, hodisaning dastlabki, bir-biridan ajralmagan holati",
+            "voqealikni anglashda afsonaviylikni birinchi o’ringa qo’yish",
+            "devlar va farishtalar orasida abadiy kurash",
+            "manbalarning umumiyligi, asosliligi, qadimiyligi"
+        ],
+        "answer": "biror narsa, hodisaning dastlabki, bir-biridan ajralmagan holati"
+    },
+    {
+        "id": 168,
+        "question": "Qaysi alloma islom olamida “Musulmonlarning e’tiqodini tuzatuvchi” degan yuksak sharafga sazovor bo’lgan?",
+        "options": [
+            "Moturidiy",
+            "Buxoriy",
+            "Termiziy",
+            "Forobiy"
+        ],
+        "answer": "Moturidiy"
+    },
+    {
+        "id": 169,
+        "question": "2001 yil 11 sentyabrda ... \n",
+        "options": [
+            "AQShda terroristik harakatlar ro’y berdi",
+            "Toshkentda terroristik harakatlar ro’y berdi",
+            "Namanganda terroristik harakatlar ro’y berdi",
+            "Surxondaryoda terroristik harakatlar ro’y berdi"
+        ],
+        "answer": "AQShda terroristik harakatlar ro’y berdi"
+    },
+    {
+        "id": 170,
+        "question": "Diniy ekstremistik tashkilotlarning asosiy maqsadi ...",
+        "options": [
+            "Hokimiyatni egallab olish, xalifalikni tiklash",
+            "Osoyishta davlatni murakkab inqirozga olib borish",
+            "Jamiyatdagi qiyinchiliklardan o’z maqsadida foydalanish",
+            "Yoshlarni vatanparvarlik ruhida tarbiyalash"
+        ],
+        "answer": "Hokimiyatni egallab olish, xalifalikni tiklash"
+    },
+    {
+        "id": 171,
+        "question": "Islom ekstremizmi nima?",
+        "options": [
+            "Islom g’oyalaridan bosqinchilik yo’lida foydalanish",
+            "Haqiqat uchun o’zini qurbon qilish",
+            "Farovon turmush uchun jang olib borishga chaqirish",
+            "Vatanparvarlikni targ’ib qilish"
+        ],
+        "answer": "Islom g’oyalaridan bosqinchilik yo’lida foydalanish"
+    },
+    {
+        "id": 172,
+        "question": "Islom fundamentalizmi nima?",
+        "options": [
+            "“Islomiy taraqqiyot” yo’lini joriy etish va “Sof islom” prinsiplariga asoslanish \n",
+            "To’g’ri fikrlashni talab qilish",
+            "Taraqqiyot uchun kurash",
+            "Diniy ruhdagi siyosiy partiyalarni tuzish"
+        ],
+        "answer": "“Islomiy taraqqiyot” yo’lini joriy etish va “Sof islom” prinsiplariga asoslanish \n"
+    },
+    {
+        "id": 173,
+        "question": "“Mendan keyin xalifalik o’ttiz yil davom etsin” – degan so’zlar kimga tegishli?",
+        "options": [
+            "Muhammad (s.a.v)",
+            "Iso payg’ambarga",
+            "Muso alayhissalomga",
+            "Xalifa Aliga"
+        ],
+        "answer": "Muhammad (s.a.v)"
+    },
+    {
+        "id": 174,
+        "question": "Hinduiylik va Konfusiychilik ta’limotiga ko’ra qaysi turdagidinga kiradi?",
+        "options": [
+            "Politeistik",
+            "Monoteistik",
+            "Animistik",
+            "Urug’- qabilachilik"
+        ],
+        "answer": "Politeistik"
+    },
+    {
+        "id": 175,
+        "question": "Buddaviylikning asosiy qoidalari nimada bayon etilgan?",
+        "options": [
+            "“To’rt oliy haqiqat”da",
+            "“Sharq nazariyasi”da",
+            "“Bundaxishin”da",
+            "“Tansar xatlari”da"
+        ],
+        "answer": "“To’rt oliy haqiqat”da"
+    },
+    {
+        "id": 176,
+        "question": "Iso nomiga qo’shiluvchi Masih so’zining ma’nosi nima?",
+        "options": [
+            "Xaloskor, ilohiy",
+            "Ilohiy, muqaddas",
+            "Silangan, siylangan",
+            "Muqaddas xudo"
+        ],
+        "answer": "Xaloskor, ilohiy"
+    },
+    {
+        "id": 177,
+        "question": "Protestantizm oqimi qayerda vujudga keldi?",
+        "options": [
+            "Germaniyada",
+            "Niderlandiyada",
+            "Angliyada",
+            "Fransiyada"
+        ],
+        "answer": "Germaniyada"
+    },
+    {
+        "id": 178,
+        "question": "Shariat qonun- qoidalarini o’rganuvchi fan nima deb ataladi?",
+        "options": [
+            "Fiqh",
+            "Fath",
+            "Fatvo",
+            "Huquqshunoslik"
+        ],
+        "answer": "Fiqh"
+    },
+    {
+        "id": 179,
+        "question": "Bugungi kunda tinchlik – barqarorlikka tahdid solayotgan “fundamentalizm” so’zining lug’aviy ma’nosi qanday ma’noni anglatadi?",
+        "options": [
+            "asos, poydevor",
+            "tayanch",
+            "mohiyat",
+            "tahdid, aqida"
+        ],
+        "answer": "asos, poydevor"
+    },
+    {
+        "id": 180,
+        "question": "Ma’lumki, dunyoda islom aqidaparastligining qator diniy – siyosiy oqimlari mavjud bo’lib, mustaqillikdan so’ng O’zbekistondagi tinchlik barqarorlikka ularning qaysilari tahdid solishga harakat qilishdi?",
+        "options": [
+            "Vahhobiylik va Hizbut tahrir",
+            "Al – Qoida va Al – Jihad al - Islomiy",
+            "at – Takfir val – Hijra va Abu sayyoor",
+            "Xizbulloh va Lashkari jihod \n"
+        ],
+        "answer": "Vahhobiylik va Hizbut tahrir"
+    },
+    {
+        "id": 181,
+        "question": "So’fizm ta`limoti qachon paydo bo’lgan?",
+        "options": [
+            "VIII-IX asrlarda",
+            "VIII asr o’rtalarida",
+            "II asr II yarmida",
+            "X-XI asrlarda"
+        ],
+        "answer": "VIII-IX asrlarda"
+    },
+    {
+        "id": 182,
+        "question": "Tasavvuf ta`limoti dastlab qaysi shaharlarda yoyilgan?",
+        "options": [
+            "Damashq, Kufa, Basra, Bag’dod",
+            "Toif, Kufa, Mazokdaron, Bag’dod",
+            "Damashq, Arabiston yarim oroli, Makka",
+            "Saudiya Arabistoni, Madina, Makka, Kufa"
+        ],
+        "answer": "Damashq, Kufa, Basra, Bag’dod"
+    },
+    {
+        "id": 183,
+        "question": "Islom dini qachon paydo bo’lgan?",
+        "options": [
+            "VI asrning oxiri VII asrning boshlarida",
+            "II asrning oxiri III asrning boshlarida",
+            "VII asrning oxiri VIII asrning I yarmida",
+            "VI asrning oxiri VII asrning II yarmida"
+        ],
+        "answer": "VI asrning oxiri VII asrning boshlarida"
+    },
+    {
+        "id": 184,
+        "question": "“Hasan hadislar” – hadislarning qaysi toifasiga kiradi?",
+        "options": [
+            "Ishonchli hadislar",
+            "Yaxshi hadislar",
+            "Ishonchsiz hadislar",
+            "Noma’lum hadislar"
+        ],
+        "answer": "Ishonchli hadislar"
+    },
+    {
+        "id": 185,
+        "question": "Buddaviylik dinida uzluksiz qayta tug’ilish haqidagi ta’limot qanday nomlanadi?",
+        "options": [
+            "Sansara",
+            "Gautama",
+            "Nirvana",
+            "Karma"
+        ],
+        "answer": "Sansara"
+    },
+    {
+        "id": 186,
+        "question": "Kiyik terisiga yozilgan Qur’on qaysi yozuv tilida bitilgan?",
+        "options": [
+            "Kufiy",
+            "Nastaliq",
+            "Xattotiy",
+            "So’g’d"
+        ],
+        "answer": "Kufiy"
+    },
+    {
+        "id": 187,
+        "question": "“Vedalar” qaysi dinning muqaddas kitobi hisoblanadi?",
+        "options": [
+            "Hinduiylik",
+            "Buddaviylik",
+            "Sikxizm",
+            "Shivaizm"
+        ],
+        "answer": "Hinduiylik"
+    },
+    {
+        "id": 188,
+        "question": "Qaysi din milliy din emas?",
+        "options": [
+            "Buddaviylik",
+            "Sintoizm",
+            "Iudaizm",
+            "Hinduiylik"
+        ],
+        "answer": "Buddaviylik"
+    },
+    {
+        "id": 189,
+        "question": "Fеtishizm nimani ilоhiylashtiradi?",
+        "options": [
+            "Moddiy buyumlarni",
+            "Insonlarni",
+            "Hayvonlarni",
+            "O’simliklarni"
+        ],
+        "answer": "Moddiy buyumlarni"
+    },
+    {
+        "id": 190,
+        "question": "Dinning “kompensatorlik funksiyasi” qanday vazifani bajaradi?",
+        "options": [
+            "tasalli beruvchilik vazifasini",
+            "tartibga soluvchilik vazifasini",
+            "birlashtiruvchilik vazifasini",
+            "aloqa bog’lashlik vazifasini"
+        ],
+        "answer": "tasalli beruvchilik vazifasini"
+    },
+    {
+        "id": 191,
+        "question": "“Dast ba kоru dil ba yor (qo’l ishda, Allоh dilda bo’lsin) qaysi tariqatning shiоri hisоblangan?",
+        "options": [
+            "Naqshbandiya",
+            "Yassaviya",
+            "Kubroviya",
+            "Motrudiya"
+        ],
+        "answer": "Naqshbandiya"
+    },
+    {
+        "id": 192,
+        "question": "Jоn, ruhlarning bоrligiga, ularning abadiyligiga ishоnish nima dеb ataladi?",
+        "options": [
+            "Animizm",
+            "Fetishizm",
+            "Totemizm",
+            "Sehrgarlik"
+        ],
+        "answer": "Animizm"
+    },
+    {
+        "id": 193,
+        "question": "Sunniylikdagi fiqhiy (huquqiy) mazхablarni ko’rsating",
+        "options": [
+            "Hanafiy,Shоfeiy, Mоlikiy, Xanbaliy",
+            "Хanafiy, Ja’fariy, Shоfshiy, Xanbaliy",
+            "Mоlikiy, хanbaliy, Ismoiliya",
+            "Ja’fariy, sunniy, Хanafiy"
+        ],
+        "answer": "Hanafiy,Shоfeiy, Mоlikiy, Xanbaliy"
+    },
+    {
+        "id": 194,
+        "question": "Miloddan oldingi XIII asrda vujudga kelgan diniy ta’limot qaysi?\n",
+        "options": [
+            "Yahudiylik dini",
+            "Buddaviylik dini\n",
+            "Zardushtiylik dini",
+            "Hinduiylik dini"
+        ],
+        "answer": "Yahudiylik dini"
+    },
+    {
+        "id": 195,
+        "question": "Qur’on qachon yagona kitob holiga keltirilgan?",
+        "options": [
+            "651 yilda",
+            "632 yilda",
+            "661 yilda",
+            "656 yilda"
+        ],
+        "answer": "651 yilda"
+    },
+    {
+        "id": 196,
+        "question": "Yapоniyaning an’anaviy milliy dini nima dеb ataladi?\n",
+        "options": [
+            "Sintoizm",
+            "Buddaviylik",
+            "Daоsizm",
+            "Konfutsiylik"
+        ],
+        "answer": "Sintoizm"
+    },
+    {
+        "id": 197,
+        "question": "Sintоizm dinining bоsh xudosi kim?",
+        "options": [
+            "Amiterasu",
+            "Axuramazda",
+            "Xanuman",
+            "Amusend"
+        ],
+        "answer": "Amiterasu"
+    },
+    {
+        "id": 198,
+        "question": "Konfutsiylik dinining asоschisi kim?",
+        "options": [
+            "Kun Szi",
+            "Lao Szi",
+            "Kon Szi",
+            "Ken Szi"
+        ],
+        "answer": "Kun Szi"
+    },
+    {
+        "id": 199,
+        "question": "Hinduiylik dinida ibоdatхоna nima dеb ataladi?",
+        "options": [
+            "Butxona",
+            "Masjid",
+            "Cherkov",
+            "Sinagoga"
+        ],
+        "answer": "Butxona"
+    },
+    {
+        "id": 200,
+        "question": "“Daо dе szin” risоlasining muallifi kim?",
+        "options": [
+            "Laо-Szi",
+            "Kun Szi",
+            "Xuan Yuan",
+            "Shеn Daо"
+        ],
+        "answer": "Laо-Szi"
+    },
+    {
+        "id": 201,
+        "question": "Mamlakatimizda “Avesto”ning 2700 yilligi qachon nishonlandi?",
+        "options": [
+            "2001-yili",
+            "2000-yili",
+            "1991-yili",
+            "1995-yili"
+        ],
+        "answer": "2001-yili"
+    },
+    {
+        "id": 202,
+        "question": "1873 yil amerikalik ishbilarmon Ch.T.Rassel asos solgan protestant oqimi qanday nomlanadi?",
+        "options": [
+            "Iyegova shohidlari",
+            "Mormonlar",
+            "Baptizm",
+            "Aum Sinrikyo"
+        ],
+        "answer": "Iyegova shohidlari"
+    },
+    {
+        "id": 203,
+        "question": "Qur’on oyatlari Alloh tomonidan Muhammad payg’ambarga qaysi farishta orqali vahiy qilingan?",
+        "options": [
+            "Jabroil farishta",
+            "Isrofil farishta",
+            "Mikoil farishta",
+            "Azroil farishta"
+        ],
+        "answer": "Jabroil farishta"
+    },
+    {
+        "id": 204,
+        "question": "Oxirzamonda suur chalish qaysi farishtaga yuklatilgan?",
+        "options": [
+            "Isrofil farishta",
+            "Jabroil farishta",
+            "Azroil farishta",
+            "Munkar va    \n     Nakir\n"
+        ],
+        "answer": "Isrofil farishta"
+    },
+    {
+        "id": 205,
+        "question": "Yahudiylik dinida Muso kimning elchisi hisoblanadi?",
+        "options": [
+            "Yaxve",
+            "Iuda",
+            "Farishta",
+            "Dovud"
+        ],
+        "answer": "Yaxve"
+    },
+    {
+        "id": 206,
+        "question": "Xristianlarning butunjahon I sobori qayerda bo’lib o’tadi?",
+        "options": [
+            "Nikeyda",
+            "Konstantinopolda",
+            "Rimda",
+            "Isroilda"
+        ],
+        "answer": "Nikeyda"
+    },
+    {
+        "id": 207,
+        "question": "Xristianlarning butunjahon II sobori qayerda bo’lib o’tadi?",
+        "options": [
+            "Konstantinopolda",
+            "Nikeyda",
+            "Rimda",
+            "Isroilda"
+        ],
+        "answer": "Konstantinopolda"
+    },
+    {
+        "id": 208,
+        "question": "Katolik oqimida ruhoniylarning uylanmaslik talabi nima deb ataladi?",
+        "options": [
+            "Selebat",
+            "Inkvizitsiya",
+            "Indulgensiya",
+            "Diakon"
+        ],
+        "answer": "Selebat"
+    },
+    {
+        "id": 209,
+        "question": "Xristianlarda Jannat va do’zax orasidagi mavze…",
+        "options": [
+            "A’rof",
+            "Selebat",
+            "Advent",
+            "Baptist"
+        ],
+        "answer": "A’rof"
+    },
+    {
+        "id": 210,
+        "question": "Qurbon va Ro’za hayitlari qachondan boshlab mamlakatimizda bayram va dam olish kuni sifatida nishonlanadigan bo’ldi?",
+        "options": [
+            "1992",
+            "1991",
+            "1990",
+            "1994"
+        ],
+        "answer": "1992"
+    }
+]
